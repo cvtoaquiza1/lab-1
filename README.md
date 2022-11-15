@@ -25,7 +25,8 @@ Calcular errores de las mediciones y comentar los resultados.
 
 Conclusion:
 
-![image](https://user-images.githubusercontent.com/117781491/201834014-20905474-5aad-461d-aa2e-5ca981ef1e66.png)
+![image](https://user-images.githubusercontent.com/117781491/201835061-0146e48e-2f77-4009-bc34-cd9851759012.png)
+
 
 
 
