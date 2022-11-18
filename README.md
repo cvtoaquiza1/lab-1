@@ -32,3 +32,25 @@ Conclusion:
 
 
 
+
+
+
+
+2.5.4.	Compare los valores de la tabla 2.1 y realice sus conclusiones.
+
+![image](https://user-images.githubusercontent.com/117781491/202715239-47f64bcf-8f96-437d-99d7-3bad4d56b26f.png)
+
+![image](https://user-images.githubusercontent.com/117781491/202716162-5d22d650-93a3-468c-9990-b1dd4779fe2e.png)
+
+
+![image](https://user-images.githubusercontent.com/117781491/202715752-ec9f967e-1875-4d02-920e-5a9e3210aff6.png)
+
+
+Se puede observar que  en este caso en las mallas  I1 e  I2 el calculo del error es cero, es decir que no hubo fallas en los instrumentos de medición, y tampoco variación en los resultados analíticos y experimentales, por otro lado en el caso de la malla  I3 el error es de 200 %, es decir existe un margen de error  muy grande en los resultados analíticos y experimentales.
+
+
+
+
+
+
+
